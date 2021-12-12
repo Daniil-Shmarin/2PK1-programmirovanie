@@ -1,0 +1,16 @@
+C:\Users\PK\source\repos\PZ8\bin\Debug\net5.0\PZ8.exe
+C:\Users\PK\source\repos\PZ8\bin\Debug\net5.0\PZ8.deps.json
+C:\Users\PK\source\repos\PZ8\bin\Debug\net5.0\PZ8.runtimeconfig.json
+C:\Users\PK\source\repos\PZ8\bin\Debug\net5.0\PZ8.runtimeconfig.dev.json
+C:\Users\PK\source\repos\PZ8\bin\Debug\net5.0\PZ8.dll
+C:\Users\PK\source\repos\PZ8\bin\Debug\net5.0\ref\PZ8.dll
+C:\Users\PK\source\repos\PZ8\bin\Debug\net5.0\PZ8.pdb
+C:\Users\PK\source\repos\PZ8\obj\Debug\net5.0\PZ8.csproj.AssemblyReference.cache
+C:\Users\PK\source\repos\PZ8\obj\Debug\net5.0\PZ8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\source\repos\PZ8\obj\Debug\net5.0\PZ8.AssemblyInfoInputs.cache
+C:\Users\PK\source\repos\PZ8\obj\Debug\net5.0\PZ8.AssemblyInfo.cs
+C:\Users\PK\source\repos\PZ8\obj\Debug\net5.0\PZ8.csproj.CoreCompileInputs.cache
+C:\Users\PK\source\repos\PZ8\obj\Debug\net5.0\PZ8.dll
+C:\Users\PK\source\repos\PZ8\obj\Debug\net5.0\ref\PZ8.dll
+C:\Users\PK\source\repos\PZ8\obj\Debug\net5.0\PZ8.pdb
+C:\Users\PK\source\repos\PZ8\obj\Debug\net5.0\PZ8.genruntimeconfig.cache
